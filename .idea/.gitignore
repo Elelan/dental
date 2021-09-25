@@ -6,3 +6,9 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+/dental.iml
+/modules.xml
+/php.xml
+/inspectionProfiles/Project_Default.xml
+/runConfigurations.xml
+/vcs.xml
