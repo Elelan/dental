@@ -1,11 +1,11 @@
 {
-    "name": "flutter_dental",
-    "short_name": "flutter_dental",
+    "name": "Apex Dental",
+    "short_name": "apex dental",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Advanced Dental Clinic",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
